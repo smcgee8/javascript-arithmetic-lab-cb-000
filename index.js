@@ -7,25 +7,25 @@ function subtract() {
 }
 
 function multiply() {
-  
+
 }
 
 function divide() {
-  
+
 }
 
 function inc() {
-  
+
 }
 
 function dec() {
-  
+
 }
 
 function makeInt(n) {
-  
+
 }
 
 function preserveDecimal(n) {
-  
+
 }
